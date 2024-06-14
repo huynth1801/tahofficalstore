@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "name": "Khẩu Trang Thời Trang Unisex Cao Cấp Fashion Masks 5D",
+    "brand": "SERMALA",
+    "type": "dochongnang",
+    "price": 99000,
+    "discount": 45,
+    "category": "New Arrivals",
+    "description": "Khẩu Trang Thời Trang Unisex Cao Cấp Fashion Masks 5D ( Vải Thoáng Lót Lưới Mềm Êm Ái Dây Đeo Rút Co Giãn Z148 )\n\nKHẨU TRANG LOGO UV Z148 CÓ 2 PHIÊN BẢN:\n\n1. PHIÊN BẢN MÙA HÈ:\n   - Vải UV dạng thun\n   - Cho vùng thời tiết nóng\n   - Vải thun lạnh, co giãn\n   - Có lớp lưới thoáng khí\n   - Chống hầm hơi, thoát nhiệt tốt\n   - Không gây ứ nhiệt mặt\n   - Dùng được cho da nhạy cảm\n\n2. PHIÊN BẢN MÙA ĐÔNG:\n   - Vải Polyester lông mịn\n   - Cho vùng thời tiết lạnh\n   - Vải độ đàn hồi kém\n   - Ko thích hợp vùng nóng\n   - Do thiết kế mục đích giữ nhiệt mùa lạnh\n   - Nên dễ bị hầm hơi ở chỗ nhiệt độ cao\n   - Lông mịn ứ nhiệt mặt sinh mụn\n   - Chỉ nên dùng ở vùng lạnh\n\nSỰ THẬT BẢN NÂNG CẤP - 1 Số shop nói bản nâng cấp có gọng\n[ Thật ra đó là bản thu đông - Không phải nâng cấp ạ. ]\n\nBản thu đông - dành cho mùa lạnh đeo giữ ấm thích hợp dùng ở Đà Lạt, Sapa,...\n   Do vải dày nóng cứng ko đeo khít mặt được nên phải thêm thanh cứng giúp hạn chế khe hở ở mũi khi đeo (cần gọng) ^^!\n\nBản Mùa Hè vải thun lạnh - vải mát dành cho mùa nóng\n   Do vải thun đàn hồi ôm khít mặt nên gọng bên trong trở nên thừa thải vô nghĩa không cần thiết. (ko cần gọng)\n\nGọng bên trong làm bằng kim loại phủ giặt nhiều sẽ sét ko tốt ạ.\n\nCơ bản thì bản nào cũng ôm khít mặt & chống UV & CHÍNH HÃNG hết nha.\nLà người tiêu dùng thông minh hiểu về sản phẩm để tránh mua nhầm nhu cầu sử dụng nhé!~",
+    "image": "img/product/uvprotect/khautrang.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 2,
+    "name": "Áo Chống Nắng Sermala Nữ Mẫu Con Thỏ Chất Liệu Thoáng Mát Thông Hơi Nhiều Màu",
+    "brand": "SERMALA",
+    "type": "dochongnang",
+    "price": 199000,
+    "discount": 40,
+    "category": "Best-Selling",
+    "description": "Son có finish lì, lên màu đậm chuẩn từ lần thoa đầu tiên. Khác với chất son Powder Kiss, MAC Matte Lipstick có thêm các thành phần dưỡng môi giúp bổ sung độ ẩm cho môi, hạn chế tình trạng khô môi, bong chóc. Tuy nhiên, với các cậu vẫn nên dưỡng ẩm môi một chút trước khi apply son để son được xinh nhất nhen ^^",
+    "image": "img/product/uvprotect/aochongnang.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 3,
+    "name": "Áo chống nắng toàn thân 2 lớp dáng croptop chất cotton hàn dày mát chống tia UV",
+    "brand": "SERMALA",
+    "type": "dochongnang",
+    "price": 199000,
+    "discount": 38,
+    "category": "Best-Selling",
+    "description": "Jung Saem Mool là 1 trong những chuyên gia trang điểm nổi tiếng bậc nhất ở Hàn Quốc. Bảng che khuyết điểm và triệt sắc cô nghiên cứu sản xuất ra rất phù hợp với làn da Châu Á.Palette được thiết kế xịn xò với 6 ô, mỗi ô – mỗi màu sắc lại có những công dụng chuyên biệt.",
+    "image": "img/product/uvprotect/aochongnangcroptop.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 4,
+    "name": "Khẩu Trang Nón Chống Nắng Chống Tia UV Đẹp Thời Trang Hàn Quốc",
+    "brand": "SERMALA",
+    "type": "dochongnang",
+    "price": 190000,
+    "discount": 43,
+    "category": "Sale Off",
+    "description": "Ultra Lip là dòng son dưỡng có màu mới nhất của Glossier. Với công thức độc đáo, mang lại cho đôi môi cậu một sắc màu rực rỡ, đầy sức sống và độ bóng mịn màng, ẩm mượt suốt cả ngày dài.",
+    "image": "img/product/uvprotect/mukhautrang.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 5,
+    "name": "Áo Lót Nữ Dáng Chữ U Trơn Có Gọng Nâng Đẩy Ngực, Áo Bra Nữ Cao Cấp 100% Cotton Mát Mịn Thấm Hút Mồ Hôi",
+    "brand": "SERMALA",
+    "type": "aonguc",
+    "price": 150000,
+    "discount": 90,
+    "category": "Sale Off",
+    "description": "Kem dưỡng dạng gel trong suốt innisfree Jeju Cherry Blossom Jelly Cream dưỡng ẩm sáng da từ hoa anh đào và Betaine tự nhiên, nhẹ nhàng và không gây nhờn rít.",
+    "image": "img/product/aonguc/aovu.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1", "user_id": 1 },
+      { "user": "Người dùng 2", "comment": "Bình luận 2", "user_id": 2 }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 6,
+    "name": "Áo Lót Nữ TAH Đúc Su Cao Cấp Không Gọng Nâng Ngực Tạo Khe Mềm Mại Quyến Rũ",
+    "brand": "SERMALA",
+    "type": "aonguc",
+    "price": 450000,
+    "category": "Sale Off",
+    "discount": 0,
+    "description": "Bảng Phấn Mắt 9 Màu Xinh Xắn Dasique Shadow Palette là bảng phấn mắt thuộc thương hiệu Cosnori đa dạng với từng bảng màu mang những chủ đề riêng biệt tạo cho bạn sự hứng khởi khi lựa chọn cho mình một gam màu phù hợp với cá tính của bản thân, có thể phối hợp nhiều lối makeup khác nhau cho đôi mắt thêm long lanh cùng vẻ cuốn hút riêng biệt của bạn.",
+    "image": "img/product/aonguc/aolotkhonggong.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 7,
+    "name": "Áo Ngực Thể Thao TAH Bằng Lụa Lạnh Siêu Mỏng Nhẹ Không Gọng Thép Không Đường May Nhiều Màu Thoáng Mát",
+    "brand": "SERMALA",
+    "type": "aonguc",
+    "category": "New Arrivals",
+    "price": 300000,
+    "discount": 80,
+    "description": "3CE Blur Matte Lipstick là dòng son mới ra mắt của hãng, với sự thay đổi thiết kế lạ mắt, hiện đại cùng chất son mịn màng vốn luôn là thế mạnh, sản phẩm đã ngay lập tức làm xáo động giới beauty, nhiều mã đã nhanh chóng sold-out. ",
+    "image": "img/product/aonguc/aosunuoc.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 8,
+    "name": "Áo Ngực Su Chống Tụt Cúp Ngang Cài Trước Mút Dày Siêu Nâng, Áo Lót Su Cúp Ngang TAH",
+    "brand": "SERMALA",
+    "type": "aonguc",
+    "price": 300000,
+    "discount": 80,
+    "category": "New Arrivals",
+    "description": "Mascara Lông Mày 3CE Eyebrow  4G là sản phẩm mascara dành riêng cho lông mày đến từ thương hiệu 3CE, giúp tạo đường nét cho lông mày rõ nét hơn, tạo sợi chân mày thời thượng đặc biệt với bảng màu đa dạng thích hợp cho nhiều màu tóc khác nhau.",
+    "image": "img/product/aonguc/aolotsucaitruoc.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 9,
+    "name": "Set 4 Quần Lót Nữ TAH Full Hộp Cao Cấp Kháng Khuẩn Nâng Mông Không Viền Quyến Rũ FreeSize",
+    "brand": "SERMALA",
+    "type": "quanlot",
+    "price": 300000,
+    "discount": 80,
+    "category": "Best-Selling",
+    "description": "Son Kem Lì, Lên Màu Siêu Chuẩn Bbia Last Velvet Lip Tint là dòng son kem lì của thương hiệu Bbia, với nhiều phiên bản son liên tục được hãng cho ra mắt, thương hiệu Bbia cực kỳ nhanh nhạy khi nắm bắt xu hướng màu son hot nhất hiện nay với bảng màu vô cùng thời thượng. Son lì nhưng mịn như nhung, rất nhẹ và mướt môi, không làm khô môi hay lộ vân môi, lớp finish lì tuyệt đối nhưng sau khi ăn sẽ để lại lớp màu hồng đỏ tiệp lại trên môi cực xinh.",
+    "image": "img/product/quanlot/quancookie.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 10,
+    "name": "Set 6 Quần Lót Nữ TAH - Chất Liệu Su Thạch Sang Trọng Không Viền Kháng Khuẩn Thấm Hút Tốt",
+    "brand": "SERMALA",
+    "type": "quanlot",
+    "price": 300000,
+    "discount": 10,
+    "category": "Sale Off",
+    "description": "Son bóng tint tạo độ căng mọng cho môi. Đặc biệt, chiết xuất dầu xoài, mơ, ô liu và hạt tầm xuân sẽ giữ cho môi bạn mềm mịn, bóng bẩy.",
+    "image": "img/product/quanlot/quansuthach.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 11,
+    "name": "Quần Lót Gen Nữ Su Nước Cạp Cao Nịt Bụng Định Hình Eo Hỗ Trợ Nâng Mông Cao Cấp TAH",
+    "brand": "SERMALA",
+    "type": "quanlot",
+    "price": 300000,
+    "discount": 10,
+    "category": "Best-Selling",
+    "description": "“Huyền thoại” giới makeup - Double Layer Over Velvet đã trở lại với version 3 - Jewelry với concept đá quý sang trọng cùng tông màu xanh ngọc lục bảo chủ đạo và chất son “double layer” đặc trưng. Nối tiếp sự thành công vượt bậc của Double Layer 2, 𝗗𝗼𝘂𝗯𝗹𝗲 𝗟𝗮𝘆𝗲𝗿 𝗢𝘃𝗲𝗿 𝗩𝗲𝗹𝘃𝗲𝘁 𝟯 - 𝗝𝗲𝘄𝗲𝗹𝗿𝘆 hứa hẹn sẽ trở thành “cơn địa chấn” khuấy đảo cộng đồng makeup cả trong lẫn ngoài nước. ",
+    "image": "img/product/quanlot/quansunuoc.jpeg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  },
+  {
+    "id": 12,
+    "name": "Quần lót gấu",
+    "brand": "SERMALA",
+    "type": "quanlot",
+    "category": "New Arrivals",
+    "price": 250000,
+    "discount": 20,
+    "description": "kinu - lụa nhật vốn nổi tiếng thế giới về chất lượng và sự tinh xảo xuyên suốt quá trình sáng tạo, dưới bàn tay của những người thợ thủ công lành nghề. không chỉ là chất liệu dùng trong may mặc, đây còn là nguồn cảm hứng sống động... ",
+    "image": "img/product/quanlot/quanlotgau.jpg",
+    "weight": "100g",
+    "ingredients": ["Thành phần 1", "Thành phần 2"],
+    "rating": 4.5,
+    "reviews": [
+      { "user": "Người dùng 1", "comment": "Bình luận 1" },
+      { "user": "Người dùng 2", "comment": "Bình luận 2" }
+    ],
+    "quantity_available": 50,
+    "date_added": "2023-01-01",
+    "last_updated": "2023-01-15"
+  }
+]

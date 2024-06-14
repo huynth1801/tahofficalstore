@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Css -->
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/products_detail.css" />
+
+    <!-- Fonts -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <link href="https://fonts.cdnfonts.com/css/inter" rel="stylesheet" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lilita+One&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Icon -->
+    <link rel="icon" href="img/logo.svg" />
+
+    <!-- Css -->
+    <!-- <link rel="stylesheet"  href="css/style.css">
+    <link rel="stylesheet" href="css/products_detail.css"> -->
+
+    <!-- Title -->
+    <title>Tunie</title>
+  </head>
+
+  <body>
+    <!-- header section starts  -->
+    <header class="header">
+      <div>
+        <a href="index.html" class="header-logo">
+          <img class="logo" alt="" style="height: 80px" src="img/logo.png" />
+          <p class="brand">TAH STORE</p>
+        </a>
+      </div>
+
+      <nav class="navbar">
+        <a href="index.html">Trang chủ</a>
+        <a href="khuyenmai.html">Thông tin khuyến mãi</a>
+        <a href="products.html">Sản phẩm</a>
+        <a href="about.html">Về chúng tôi</a>
+      </nav>
+
+      <div class="icons">
+        <div class="fas fa-bars" id="menu-btn"></div>
+        <div class="fas fa-search" id="search-btn"></div>
+        <div class="fas fa-shopping-cart" id="cart-btn">
+          <span class="cart-item-count"></span>
+        </div>
+        <a href="login.html">
+          <div class="fas fa-user" id="login-btn"></div>
+        </a>
+      </div>
+
+      <form action="" class="search-form">
+        <input type="search" id="search-box" placeholder="Tìm kiếm" />
+        <label for="search-box" class="fas fa-search"></label>
+      </form>
+
+      <div class="shopping-cart"></div>
+    </header>
+    <!-- header section ends -->
+
+    <section class="body">
+      <div class="container">
+        <button class="back-button" onclick="goBack()">
+          <i class="fa-solid fa-arrow-left-long"></i>
+        </button>
+        <div class="detail">
+          <div class="image">
+            <img src="" alt="" />
+          </div>
+          <div class="content">
+            <h1 class="name"></h1>
+            <div class="discount-badge"></div>
+            <div class="quantity">
+              <button onclick="decreaseQuantity()">-</button>
+              <span id="product-quantity">1</span>
+              <button onclick="increaseQuantity()">+</button>
+            </div>
+            <div class="price"></div>
+            <div class="buttons">
+              <a href="payment.html">
+                <button class="buy-product">Mua ngay</button>
+              </a>
+              <button class="add-to-cart-button">
+                Thêm vào giỏ hàng
+                <span>
+                  <svg
+                    class=""
+                    aria-hidden="true"
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewBox="0 0 18 20"
+                  >
+                    <path
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      d="M6 15a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm0 0h8m-8 0-1-4m9 4a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm-9-4h10l2-7H3m2 7L3 4m0 0-.792-3H1"
+                    />
+                  </svg>
+                </span>
+              </button>
+            </div>
+            <div class="description"></div>
+          </div>
+          <section class="comments">
+            <h2>Bình Luận</h2>
+            <div id="comment-list"></div>
+            <label for="comment-input"></label
+            ><textarea
+              id="comment-input"
+              placeholder="Nhập bình luận của bạn"
+            ></textarea>
+            <button onclick="addComment()">Gửi Bình Luận</button>
+          </section>
+        </div>
+
+        <div class="title">Sản phẩm tương tự</div>
+        <div class="listProduct"></div>
+      </div>
+    </section>
+
+    <!-- footer section starts  -->
+    <section class="footer">
+      <div class="box-container">
+        <div class="box">
+          <img src="img/logoTunie.png" alt="" />
+          <p>Ho Chi Minh City, VietNam</p>
+          <div class="share">
+            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="#" class="fab fa-twitter"></a>
+            <a href="#" class="fab fa-instagram"></a>
+            <a href="https://shopee.vn/tah_bikini" class="fab" target="_blank">
+              <img src="./img/about/iconShopee.svg" />
+            </a>
+          </div>
+        </div>
+
+        <div class="box">
+          <h3>contact info</h3>
+          <a href="#" class="links">
+            <i class="fas fa-phone"></i> +037-591-3052
+          </a>
+          <a href="#" class="links">
+            <i class="fas fa-envelope"></i> huynhhthuyy.060103@gmail.com
+          </a>
+          <a href="#" class="links">
+            <i class="fas fa-map-marker-alt"></i> 157 Thái Phiên, Phường 9, Quận
+            11, Hồ Chí Minh City, Việt Nam.
+          </a>
+        </div>
+
+        <div class="box">
+          <h3>Bản tin</h3>
+          <p>Đăng ký để nhận thông tin mới nhất</p>
+          <input type="email" placeholder="your email" class="email" />
+          <input type="submit" value="subscribe" class="btn" />
+          <img src="img/payment.png" class="payment-img" alt="" />
+        </div>
+      </div>
+
+      <div class="credit">
+        created by <span> Huỳnh Thị Thúy </span> | all rights reserved
+      </div>
+    </section>
+    <button class="scroll-to-top-btn"><i class="fas fa-arrow-up"></i></button>
+
+    <!-- footer section ends -->
+
+    <!-- custom js file link  -->
+    <script src="static/script.js"></script>
+    <script defer src="static/product_detail.js"></script>
+    <script src="static/order.js"></script>
+  </body>
+</html>

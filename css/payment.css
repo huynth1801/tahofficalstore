@@ -1,0 +1,158 @@
+/* CSS cho trang thanh toán sản phẩm */
+/* Thay đổi font và margin/padding theo nhu cầu */
+
+/* .checkout {
+    display: flex;
+} */
+
+.checkout {
+    font-family: 'Inter', sans-serif;
+    background-color: #ffd6be;
+}
+
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.product-item {
+    width: calc(50% - 20px); /* Điều chỉnh chiều rộng sản phẩm */
+    margin: 10px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.product-item img {
+    width: 100px; /* Điều chỉnh kích thước ảnh */
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.product-item p {
+    margin: 5px 0;
+    font-size: 14px;
+    /* Thêm CSS cho các phần khác */
+}
+
+.back-button {
+    background-color: #ffd6be;
+    color: #2F2F2F;
+    border: none;
+    padding-bottom: 10px;
+    cursor: pointer;
+    width: 12px;
+}
+
+
+/* CSS cho form thông tin người mua */
+.buyer-info {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.buyer-info h2 {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.buyer-info form {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Canh giữa theo chiều ngang */
+}
+
+.buyer-info label {
+    margin-bottom: 8px;
+}
+
+.buyer-info input[type="text"],
+.buyer-info input[type="email"],
+.buyer-info input[type="tel"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+}
+
+.buyer-info button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px; /* Khoảng cách từ nút đến các trường trên */
+}
+
+.buyer-info button:hover {
+    background-color: #2980b9;
+}
+
+.total {
+    font-weight: 700;
+}
+
+/* CSS cho điện thoại di động */
+@media (max-width: 600px) {
+    .buyer-info {
+        margin: 0 10px;
+    }
+
+    .buyer-info label {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    .buyer-info input[type="text"],
+    .buyer-info input[type="email"],
+    .buyer-info input[type="tel"] {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+    }
+
+    .buyer-info button {
+        width: 100%;
+        margin-top: 10px;
+    }
+}
+
+/* CSS cho điện thoại di động */
+@media (max-width: 600px) {
+    .products {
+        display: block;
+    }
+
+    .product-item {
+        width: 100%; /* Chiếm toàn bộ chiều rộng của màn hình */
+        margin: 10px 0; /* Tạo khoảng cách 10px trên và dưới sản phẩm */
+        padding: 15px; /* Thêm padding */
+    }
+
+    .total {
+        text-align: right;
+    }
+}
+
+.popup {
+    position: fixed;
+    top: 8%;
+    right: -300px; /* Bắt đầu ẩn pop-up bên phải */
+    transform: translate(0, -50%);
+    background-color: #00b894;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: right 0.3s ease-in-out;
+    padding: 16px;
+}
+
+.popup-show {
+    right: 50px; /* Hiển thị pop-up từ phải qua trái */
+}

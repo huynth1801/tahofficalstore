@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Title and other metadata -->
+    <!-- Header content -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="css/payment.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+
+    <main>
+        <section class="checkout">
+            <button class="back-button" onclick="goBack()"><i class="fa-solid fa-arrow-left-long"></i></button>
+            <div class="products">
+                <!-- Display purchased products here -->
+            </div>
+            
+            <div class="buyer-info">
+                <h2>Thông tin người mua</h2>
+                <form id="buyer-form">
+                    <!-- Buyer information fields -->
+                    <label for="fullname">Họ và tên:</label>
+                    <input type="text" id="fullname" name="fullname" required>
+    
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+    
+                    <label for="address">Địa chỉ:</label>
+                    <input type="text" id="address" name="address" required>
+    
+                    <label for="phone">Số điện thoại:</label>
+                    <input type="tel" id="phone" name="phone" required>
+    
+                    <!-- Add more fields for address, phone, etc., as needed -->
+    
+                    <button type="submit">Hoàn tất đơn hàng</button>
+                </form>
+                <div id="popup" class="popup">
+                    <span id="popup-message" class="popup-message"></span>
+                </div>
+            </div>
+        </section>
+    </main>
+
+
+    
+    <script src="static/checkout.js"></script> <!-- Your checkout logic -->
+</body>
+</html>
